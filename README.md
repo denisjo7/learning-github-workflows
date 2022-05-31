@@ -1,1 +1,1 @@
-# Learning Github Actions
+# Learning Github Workflows
